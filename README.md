@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,firebase,mongodb, github" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,firebase,mongodb, git" />
   </a>
 </p>
 
