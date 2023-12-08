@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrbannerbear/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrbannerbear/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
 
