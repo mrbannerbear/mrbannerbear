@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   ## :chart_with_upwards_trend: Stats
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrbannerbear/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
+
+![wrapped](images/github-wrapped.png)
