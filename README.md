@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 </p>
 
+<br>
   
   ## :chart_with_upwards_trend: Stats
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrbannerbear/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
+![mrbannerbear's Stats](https://github-readme-stats.vercel.app/api?username=mrbannerbear&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-![wrapped](images/github-wrapped.png)
+![mrbannerbear's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbannerbear&theme=gotham&show_icons=true&hide_border=true&layout=compact)
