@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-**mrbannerbear/mrbannerbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![sample image](images/210202.jpg)
 
 Here are some ideas to get you started:
