@@ -1,4 +1,4 @@
-![sample image](images/210202.jpg)
+![sample2](<images/Red Minimalist And Modern Cryptocurrency Logo Banner Landscape.png>)
 
 Here are some ideas to get you started:
 
