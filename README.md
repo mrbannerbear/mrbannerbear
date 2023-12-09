@@ -41,6 +41,7 @@ Thanks for stopping by! Happy coding! 👨‍💻🚀
 <img  src="https://skillicons.dev/icons?i=javascript,react,tailwind,firebase,mongodb,express"  />
 
 </a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrbannerbear&theme=gotham)
 
 </p>
 
