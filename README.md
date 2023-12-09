@@ -1,5 +1,6 @@
 
-![Alt text](<images/Red Minimalist And Modern Cryptocurrency Logo Banner Landscape (2).png>)
+![Alt text](https://github.com/mrbannerbear/mrbannerbear/blob/main/images/Red%20Minimalist%20And%20Modern%20Cryptocurrency%20Logo%20Banner%20Landscape%20(2).png)
+
 
   
 
