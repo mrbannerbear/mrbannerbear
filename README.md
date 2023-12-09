@@ -41,7 +41,6 @@ Thanks for stopping by! Happy coding! 👨‍💻🚀
 <img  src="https://skillicons.dev/icons?i=javascript,react,tailwind,firebase,mongodb,express"  />
 
 </a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrbannerbear&theme=gotham)
 
 </p>
 
@@ -56,3 +55,5 @@ Thanks for stopping by! Happy coding! 👨‍💻🚀
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbannerbear&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
 </a>
+
+![sample](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrbannerbear&theme=gotham)
