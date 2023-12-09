@@ -1,4 +1,5 @@
-![sample2](<images/Red Minimalist And Modern Cryptocurrency Logo Banner Landscape.png>)
+
+![Alt text](<images/Red Minimalist And Modern Cryptocurrency Logo Banner Landscape (2).png>)
 
   
 
