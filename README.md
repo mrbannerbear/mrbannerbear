@@ -28,6 +28,7 @@ I'm open to collaborations and networking. If you share similar interests or jus
 - 💼 LinkedIn: [https://www.linkedin.com/in/sayed-saqlayn/]
 - 📧 Email: [sayedsaqlayn@gmail.com]
   <br>
+
 Thanks for stopping by! Happy coding! 👨‍💻🚀
 
 
