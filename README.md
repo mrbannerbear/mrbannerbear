@@ -50,9 +50,9 @@ Thanks for stopping by! Happy coding! 👨‍💻🚀
   
   ## :chart_with_upwards_trend: Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+/*<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrbannerbear&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-</a>
+</a>*/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbannerbear&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
