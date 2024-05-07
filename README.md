@@ -26,7 +26,7 @@ I'm always eager to learn new things! Currently, I'm diving into:
 I'm open to collaborations and networking. If you share similar interests or just want to chat about web development, feel free to connect with me on:
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/sayed-saqlayn/]
-- 📧 Email: [smmsaqlain@gmail.com]
+- 📧 Email: [sayedsaqlayn@gmail.com]
   <br>
 
 Thanks for stopping by! Happy coding! 👨‍💻🚀
