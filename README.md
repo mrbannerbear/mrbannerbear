@@ -9,7 +9,7 @@
 
 I'm a passionate junior web developer with a love for creating awesome and user-friendly websites. Currently, I'm exploring the vast world of web technologies and honing my skills in:
 
-- Frontend Development: HTML, CSS, JavaScript (React.js)
+- Frontend Development: HTML, CSS, JavaScript (React.js, Next.js), TypeScript
 - Backend Development: Node.js, Express.js
 - Database: MongoDB
 - Version Control: Git, GitHub
