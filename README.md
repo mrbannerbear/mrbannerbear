@@ -40,7 +40,7 @@ Thanks for stopping by! Happy coding! 👨‍💻🚀
 
 <a  href="https://skillicons.dev">
 
-<img  src="https://skillicons.dev/icons?i=javascript,react,tailwind,firebase,mongodb,express"  />
+<img  src="https://skillicons.dev/icons?i=javascript,react,typescript,nextjs,tailwind,firebase,mongodb,express"  />
 
 </a>
 
