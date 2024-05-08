@@ -18,8 +18,7 @@ I'm a passionate junior web developer with a love for creating awesome and user-
 
 I'm always eager to learn new things! Currently, I'm diving into:
 
-- Next.js
-- Mongoose
+- Relational Database, RDBMS, ORM
 
 ### 🤝 Let's Connect!
 
