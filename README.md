@@ -10,7 +10,7 @@
 I'm a passionate junior web developer with a love for creating awesome and user-friendly websites. Currently, I'm exploring the vast world of web technologies and honing my skills in:
 
 - Frontend Development: HTML, CSS, JavaScript (React.js, Next.js), TypeScript
-- Backend Development: Node.js, Express.js
+- Backend Development: Node.js, Express.js, Python
 - Database: MongoDB
 - Version Control: Git, GitHub
 
@@ -39,7 +39,7 @@ Thanks for stopping by! Happy coding! 👨‍💻🚀
 
 <a  href="https://skillicons.dev">
 
-<img  src="https://skillicons.dev/icons?i=javascript,react,typescript,nextjs,tailwind,firebase,mongodb,express"  />
+<img  src="https://skillicons.dev/icons?i=javascript,react,typescript,nextjs,tailwind,firebase,mongodb,express,python"  />
 
 </a>
 
